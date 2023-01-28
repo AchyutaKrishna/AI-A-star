@@ -1,2 +1,2 @@
 # AI-project
-Using A-star algorithm to search for the shortest path between two points
+Finds the shortest distance between two points on a map using the A-star search algorithm
